@@ -1,9 +1,8 @@
 # CoinPool Research
 
-CoinPool is a second-layer Bitcoin protocol.
+CoinPool is a work-in-progress second-layer Bitcoin protocol.
 
-It is a work-in-progress. This website gathers all the resources required to understand CoinPool
-and contribute to it.
+This website gathers all the resources required to understand CoinPool and contribute to it.
 
 ## License
 

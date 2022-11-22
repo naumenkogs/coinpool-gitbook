@@ -1,8 +1,8 @@
 # Configurations
 title:            CoinPool Research
 longtitle:        Researching CoinPool, a second-layer protocol for Bitcoin
-author:           Gleb N
-email:            gleb@thelab31.xyz
+author:           Gleb N, Antoine R
+email:            gleb@thelab31.xyz, antoine@thelab31.xyz
 description: >
   Build Jekyll site with the GitBook style.
 
@@ -17,6 +17,7 @@ toc:
   enabled: true
   h_min: 1
   h_max: 3
+  ordered: true
 
 # markdown render engine.
 markdown:         kramdown
