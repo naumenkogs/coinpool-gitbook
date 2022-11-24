@@ -15,7 +15,7 @@ form of a [whitepaper](https://coinpool.dev/v0.1.pdf) in February 2022.
 
 A potential future of CoinPool may look as follows:
 - activate [SIGHASH_ANYPREVOUT](http://anyprevout.xyz/) or equivalent primitive enabling Eltoo-like update mechanism;
-- activate[SIGHASH_GROUP](https://github.com/ariard/bips/blob/coinpool-bips/bip-group.mediawiki) and malleability flags extensions (or an equivalent primitive) enabling transaction amounts introspection;
+- activate [SIGHASH_GROUP](https://github.com/ariard/bips/blob/coinpool-bips/bip-group.mediawiki) and malleability flags extensions (or an equivalent primitive) enabling transaction amounts introspection;
 - update and maintain a Bitcoin Core [fork with OP_MERKLESUB](https://github.com/ariard/bitcoin/commit/d063925ff3f68234c6d29bea0aa44157568e9415)
 - build a minimal CoinPool prototype, MERKLESUB-based running on the signet or [bitcoin-inquisition](https://github.com/bitcoin-inquisition);
 - run a signet with OP_MERKLESUB;

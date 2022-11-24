@@ -10,13 +10,11 @@ CoinPool enables UTXO-sharing among many (from 2 to hundreds) participants.
 It improves Bitcoin onboarding and transactional scaling by orders of magnitude. CoinPool instances
 could be deployed standalone, as well as to enhance the Lightning Network.
 
-Let's say Alice, Bob, Carol and Dave construct a CoinPool instance, each committing 0.1 BTC.
+Let's say Alice, Bob, Carol and Dave construct a CoinPool instance, each committing some BTC.
 Once the pool is confirmed on-chain, they can pay each other off-chain, or leave the pool
 non-interactively.
 
-Fig 1 : pool-tree-2.jpg
-
-Fig 2 : pool-tree-exit.jpg
+![coinpool-tree](/assets/coinpool-tree.png)
 
 CoinPool v0.1 offers the following features:
 - scalable non-interactive withdraw: a participant can withdraw their balance on-chain
@@ -33,4 +31,4 @@ ensuring both reasonable fault-tolerance and the safety of the lazy user's funds
 Swaps, or could be even connected to the LN. This could become a special zone for high-frequency
 financial contracts and native routing of CoinPool funds through the Lightning Network.
 
-Read the v0.1 protocol whitepaper here: https://coinpool.dev/v0.1.pdf
+Read the v0.1 protocol whitepaper [here](https://coinpool.dev/v0.1.pdf).

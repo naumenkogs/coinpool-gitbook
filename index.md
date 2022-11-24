@@ -14,7 +14,7 @@ The ideas expressed on the website are derived from the progress of the communit
 
 ## Moderating this page
 
-Feel free to suggest changes to this website by making a pull request on GitHub.
+Feel free to suggest changes to this website by [making a pull request on GitHub](https://github.com/naumenkogs/coinpool-gitbook).
 
 ## License
 

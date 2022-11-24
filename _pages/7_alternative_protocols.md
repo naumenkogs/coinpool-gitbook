@@ -28,9 +28,8 @@ allow transfering UTXOs off-chain, and doublespending is prevented by a trusted 
 [Proof-of-UTXOs](https://lists.linuxfoundation.org/pipermail/lightning-dev/2020-November/002884.html)
 suggested using UTXO ownership to bootstrap other systems.
 
-Fig 1 : genealogy.jpg
-
 Establishing a quantitive framework for ranking these solutions (mempool utilization, velocity of
 funds, fault tolerance, etc.) could help making an informed decision for picking a research
 direction.
 
+![genealogy](/assets/genealogy.jpg)
